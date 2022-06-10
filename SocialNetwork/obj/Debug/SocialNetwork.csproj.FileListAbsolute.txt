@@ -1,0 +1,8 @@
+D:\code\cs\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.exe.config
+D:\code\cs\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.exe
+D:\code\cs\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.pdb
+D:\code\cs\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.AssemblyReference.cache
+D:\code\cs\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.SuggestedBindingRedirects.cache
+D:\code\cs\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.CoreCompileInputs.cache
+D:\code\cs\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.exe
+D:\code\cs\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
